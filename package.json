@@ -16,7 +16,11 @@
     "url": "https://github.com/yvonneyang-auror/POC-Changesets/issues"
   },
   "homepage": "https://github.com/yvonneyang-auror/POC-Changesets#readme",
-  "dependencies": {
+  "devDependencies": {
     "@changesets/cli": "^2.27.9"
+  },
+  "volta": {
+    "node": "20.18.0",
+    "pnpm": "8.15.9"
   }
 }
