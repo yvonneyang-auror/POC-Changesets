@@ -1,5 +1,11 @@
 # poc-changesets
 
+## 1.1.1
+
+### Patch Changes
+
+- test fix
+
 ## 1.1.0
 
 ### Minor Changes
